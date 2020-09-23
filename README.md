@@ -1,6 +1,6 @@
 Running S3TransferUtility Sample
 =============================================
-This sample demonstrates how to use the high-level class TransferUtility to perform download and upload tasks and manage the tasks.  You can also follow the [tutorial](https://github.com/awslabs/aws-sdk-android-samples/blob/master/S3TransferUtilitySample/S3TransferUtilityTutorial.md) for a step-by-step guide in understanding the S3TransferUtilitySample.
+Step-by-step guide in understanding the S3TransferUtilitySample.
 
 1. **Create a identity pool**
    * Go to [Amazon Cognito Console](https://console.aws.amazon.com/cognito/) and choose `Manage Identity Pools`. 
