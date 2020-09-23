@@ -1,0 +1,20 @@
+{
+  "Version": "1.0",
+  "IdentityManager": {
+    "Default": {}
+  },
+"CredentialsProvider": {
+  "CognitoIdentity": {
+    "Default": {
+      "PoolId": "us-east-1:194984a0-a4ac-46b1-b635-f84411e312a7",
+      "Region": "us-east-1"
+    }
+  }
+},
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "lenovogamer",
+      "Region": "us-west-2"
+    }
+  }
+}
